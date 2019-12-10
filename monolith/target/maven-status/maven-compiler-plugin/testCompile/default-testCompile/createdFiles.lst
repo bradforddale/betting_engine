@@ -1,0 +1,14 @@
+outcome\OutcomeTest.class
+event\EventDataTest.class
+market\MarketDataTest.class
+bet\BetTest.class
+event\EventTest.class
+utilities\BettingValidationTest.class
+market\MarketAppTest.class
+outcome\OutcomeAppTest.class
+bet\BetAppTest.class
+bet\BetDataTest.class
+outcome\OutcomeDataTest.class
+market\MarketTest.class
+utilities\BettingUtilitiesTest.class
+event\EventAppTest.class
